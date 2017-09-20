@@ -1,0 +1,47 @@
+{
+
+  "data1":[
+    {"name":"派出所1","code":"00001","lng":"116.416376","lat":"39.91663","type":"1"},
+    {"name":"派出所2","code":"00002","lng":"116.231726","lat":"40.20898","type":"1"},
+    {"name":"派出所3","code":"00003","lng":"116.231926","lat":"40.20808","type":"1"},
+    {"name":"派出所4","code":"00004","lng":"116.231526","lat":"40.20838","type":"1"},
+    {"name":"中心站1","code":"00006444","lng":"116.231826","lat":"40.20538","type":"3"},
+    {"name":"中心站2","code":"00007444","lng":"116.221826","lat":"40.20438","type":"2"},
+    {"name":"中心站3","code":"00008444","lng":"116.261826","lat":"40.21438","type":"2"},
+    {"name":"中心站4","code":"00009444","lng":"116.264826","lat":"40.204648","type":"3"},
+    {"name":"中心站5","code":"00005444","lng":"116.231626","lat":"40.20938","type":"4"}
+  ],
+  "data2":[
+    {"id":"1","wdcode":"00001","linkman":"联系人1","address":"地址1","contact_number":"123456","zxcksl":"2","type":"1","front_photo_path":"./login_conbac.png","back_photo_path":"back_photo_path"},
+    {"id":"2","wdcode":"00002","linkman":"联系人2","address":"地址2","contact_number":"123456","zxcksl":"2","type":"3","front_photo_path":"./login_conbac.png","back_photo_path":"back_photo_path"},
+    {"id":"3","wdcode":"00003","linkman":"联系人3","address":"地址3","contact_number":"123456","zxcksl":"2","type":"2","front_photo_path":"./login_conbac.png","back_photo_path":"back_photo_path"},
+    {"id":"4","wdcode":"00004","linkman":"联系人4","address":"地址4","contact_number":"123456","zxcksl":"2","type":"2","front_photo_path":"./login_conbac.png","back_photo_path":"back_photo_path"},
+    {"id":"5","wdcode":"00005","linkman":"联系人5","address":"地址5","contact_number":"123456","zxcksl":"2","type":"2","front_photo_path":"./login_conbac.png","back_photo_path":"back_photo_path"},
+    {"id":"6","wdcode":"00006","linkman":"联系人6","address":"地址6","contact_number":"123456","zxcksl":"2","type":"3","front_photo_path":"./login_conbac.png","back_photo_path":"back_photo_path"},
+    {"id":"7","wdcode":"00007","linkman":"联系人7","address":"地址7","contact_number":"123456","zxcksl":"2","type":"1","front_photo_path":"./login_conbac.png","back_photo_path":"back_photo_path"},
+    {"id":"8","wdcode":"00008","linkman":"联系人8","address":"地址8","contact_number":"123456","zxcksl":"2","type":"3","front_photo_path":"./login_conbac.png","back_photo_path":"back_photo_path"},
+    {"id":"9","wdcode":"00009","linkman":"联系人9","address":"地址9","contact_number":"123456","zxcksl":"2","type":"1","front_photo_path":"./login_conbac.png","back_photo_path":"back_photo_path"}
+  ],
+  "data3":[
+    {"code":"1101010100000","content":"200","name":"东城区","posion":[116.416357,39.928353]},
+    {"code":"1101020200000","content":"100","name":"西城区","posion":[116.365868,39.912289]},
+    {"code":"1101050500000","content":"145","name":"朝阳区","posion":[116.443108,39.92147]},
+    {"code":"1101080800000","content":"137","name":"海淀区","posion":[116.298056,39.959912]},
+    {"code":"1101060600000","content":"120","name":"丰台区","posion":[116.287149,39.858427]},
+    {"code":"1101070700000","content":"165","name":"石景区","posion":[116.222982,39.906611]},
+    {"code":"1101152400000,1101159800000","content":"149","name":"大兴区","posion":[116.341395,39.726929]},
+    {"code":"1101122300000","content":"158","name":"通州区","posion":[116.656435,39.909946]},
+    {"code":"1101131300000","content":"161","name":"顺义区","posion":[116.654561,40.130347]},
+    {"code":"1101142100000","content":"233","name":"昌平区","posion":[116.231204,40.22066]},
+    {"code":"1101111100000","content":"187","name":"房山区","posion":[116.143267,39.749144]},
+    {"code":"1101090900000","content":"165","name":"门头沟区","posion":[116.102009,39.940646]},
+    {"code":"1101162700000","content":"124","name":"怀柔区","posion":[116.642349,40.315704]},
+    {"code":"1101172600000","content":"138","name":"平谷区","posion":[117.121383,40.140701]},
+    {"code":"1102282800000","content":"175","name":"密云区","posion":[116.843177,40.376834]},
+    {"code":"1102292900000","content":"181","name":"延庆区","posion":[115.974848,40.456951]},
+    {"code":"1101069500000","content":"181","name":"首都机场分局","posion":[116.61998,40.046718]},
+    {"code":"1101049900000","content":"181","name":"清河分局","posion":[116.332116,40.027623]},
+    {"code":"1101069700000","content":"181","name":"西站分局","posion":[116.326346,39.896491]}
+
+  ]
+}
